@@ -12,6 +12,12 @@ Clone this project by running the following command:
 git clone https://github.com/cesarcode-init/google-search-clone.git
 ```
 
+Then change directory:
+
+```bash
+cd google-search-clone
+```
+
 The application depends on multiple [npm packages](https://www.npmjs.com/). To install these dependencies, run `npm i` or `npm install`.
 
 ```bash
