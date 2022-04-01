@@ -13,6 +13,8 @@ The light mode conforms to the user's operating system. If it is light, applicat
 
 <p><img align="center" src="https://github.com/cesarcode-init/google-search-clone/blob/main/demo.gif" alt="google search clone demonstration" width="500" height="500" /></p>
 
+> Note that to change the light mode, navigate to `Settings > Personalisation > Colours` where you can toggle and `choose your colour`.
+
 ## Getting Started
 
 It is required to clone or fork this project to get started.
