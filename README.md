@@ -1,6 +1,15 @@
 # Google Search Clone
 
-This is a simple UI clone based on Google Search, Google Image, and Google Advanced Search. The light mode conforms to the user's operating system. If it is light, application's UI should render in light mode, if dark, it should render in dark mode.
+![GitHub last commit](https://img.shields.io/github/last-commit/cesarcode-init/google-search-clone)&nbsp;&nbsp;&nbsp;
+![GitHub language count](https://img.shields.io/github/languages/count/cesarcode-init/google-search-clone)&nbsp;&nbsp;&nbsp;
+[![GitHub issues](https://img.shields.io/github/issues/cesarcode-init/google-search-clone)](https://github.com/cesarcode-init/google-search-clone/issues)&nbsp;&nbsp;&nbsp;
+[![GitHub license](https://img.shields.io/github/license/cesarcode-init/google-search-clone)](https://github.com/cesarcode-init/google-search-clone/blob/main/LICENSE)
+
+This is a simple UI clone based on Google Search, Google Image, and Google Advanced Search.
+
+## Demonstration
+
+The light mode conforms to the user's operating system. If it is light, application's UI should render in light mode, if dark, it should render in dark mode.
 
 ## Getting Started
 
@@ -40,6 +49,30 @@ To construct the `build` folder, run the following command:
 npm run build
 ```
 
+## How to Contribute
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/cesarcode-init/google-search-clone.git
+```
+
+2. Create a new branch:
+
+```bash
+git checkout -b BRANCH_NAME
+```
+
+3. Create all wanted modifications.
+
+4. Submit a `Pull Request` providing a description of modifications.
+
+## Acknowledgements
+
+- SVGs from [React Icons](https://react-icons.github.io/react-icons/).
+
 ## License
 
-MIT License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+([back to top](#getting-started))
