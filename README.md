@@ -11,7 +11,7 @@ This is a simple UI clone based on Google Search, Google Image, and Google Advan
 
 The light mode conforms to the user's operating system. If it is light, application's UI should render in light mode, if dark, it should render in dark mode.
 
-<p><img align="center" src="https://github.com/cesarcode-init/google-search-clone/blob/main/demo.gif" alt="google search clone demonstration" width="500"  /></p>
+<p><img align="center" src="https://github.com/cesarcode-init/google-search-clone/blob/main/demo.gif" alt="google search clone demonstration" width="500" height="500" /></p>
 
 ## Getting Started
 
