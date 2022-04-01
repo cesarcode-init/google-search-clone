@@ -3,7 +3,6 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/cesarcode-init/google-search-clone)
 ![GitHub language count](https://img.shields.io/github/languages/count/cesarcode-init/google-search-clone)
 [![GitHub issues](https://img.shields.io/github/issues/cesarcode-init/google-search-clone)](https://github.com/cesarcode-init/google-search-clone/issues)
-![](https://komarev.com/ghpvc/?username=cesarcode-init&label=Views&color=E86A92)
 [![GitHub license](https://img.shields.io/github/license/cesarcode-init/google-search-clone)](https://github.com/cesarcode-init/google-search-clone/blob/main/LICENSE)
 
 This is a simple UI clone based on Google Search, Google Image, and Google Advanced Search.
