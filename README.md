@@ -83,7 +83,7 @@ git clone https://github.com/cesarcode-init/google-search-clone.git
 git checkout -b BRANCH_NAME
 ```
 
-3. Create the modifications.
+3. Make the modifications.
 
 4. Submit a `Pull Request` providing a description of modifications.
 
