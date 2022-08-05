@@ -5,7 +5,15 @@
 [![GitHub issues](https://img.shields.io/github/issues/cesarcode-init/google-search-clone)](https://github.com/cesarcode-init/google-search-clone/issues)
 [![GitHub license](https://img.shields.io/github/license/cesarcode-init/google-search-clone)](https://github.com/cesarcode-init/google-search-clone/blob/main/LICENSE)
 
-This is a simple UI clone based on Google Search, Google Image, and Google Advanced Search.
+This project contains a clone which emulates the User Interface (UI) of Google Search, Google Image, and Google Advanced Search.
+
+## Table of Contents
+
+1. [Demonstration](#demonstration)
+2. [Prerequisites](#prerequisites)
+3. [Getting Started](#getting-started)
+4. [Contributing](#contributing)
+5. [Acknowledgements](#acknowledgements)
 
 ## Demonstration
 
@@ -14,6 +22,12 @@ The light mode conforms to the user's operating system. If it is light, applicat
 <p><img align="center" src="https://github.com/cesarcode-init/google-search-clone/blob/main/demo.gif" alt="google search clone demonstration" width="500" height="500" /></p>
 
 > Note that to change the light mode, navigate to `Settings > Personalisation > Colours` where you can toggle and `choose your colour`.
+
+## Prerequisites
+
+Before getting started, it is required to download & install the following:
+
+- [Nodejs](https://nodejs.org/en/download/) LTS or current version works fine. It must be above version 14.
 
 ## Getting Started
 
@@ -53,7 +67,9 @@ To construct the `build` folder, run the following command:
 npm run build
 ```
 
-## How to Contribute
+## Contributing
+
+To contribute to this project, the following steps are required:
 
 1. Clone the repository:
 
@@ -67,16 +83,16 @@ git clone https://github.com/cesarcode-init/google-search-clone.git
 git checkout -b BRANCH_NAME
 ```
 
-3. Create all wanted modifications.
+3. Create the modifications.
 
 4. Submit a `Pull Request` providing a description of modifications.
 
 ## Acknowledgements
 
-- SVGs from [React Icons](https://react-icons.github.io/react-icons/).
+- [React Icons](https://react-icons.github.io/react-icons/).
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) license. <br/> Copyright © 2022, Kaissar Mouelhi
 
 ([back to top](#getting-started))
