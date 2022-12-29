@@ -196,3 +196,11 @@
         width: 100%;
     }
 }
+
+/* COLOR SCHEME */
+
+@media (prefers-color-scheme: dark) {
+    .main__audio-tooltip::after {
+        border-color: transparent transparent var(--white-color-x2) transparent;
+    }
+}
