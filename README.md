@@ -3,6 +3,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/cesarcode-init/google-search-clone)
 ![GitHub language count](https://img.shields.io/github/languages/count/cesarcode-init/google-search-clone)
 [![GitHub issues](https://img.shields.io/github/issues/cesarcode-init/google-search-clone)](https://github.com/cesarcode-init/google-search-clone/issues)
+![GitHub deployments](https://img.shields.io/github/deployments/cesarcode-init/google-search-clone/github-pages)
 [![GitHub license](https://img.shields.io/github/license/cesarcode-init/google-search-clone)](https://github.com/cesarcode-init/google-search-clone/blob/main/LICENSE)
 
 This project contains a clone which emulates the User Interface (UI) of Google Search, Google Image, and Google Advanced Search. It also contains dark & light modes.
