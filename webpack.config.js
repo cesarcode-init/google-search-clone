@@ -51,6 +51,7 @@ module.exports = {
     new htmlPlugin({
       filename: 'index.html',
       template: 'src/views/index.ejs',
+      favicon: 'src/assets/favicon.ico',
       chunks: ['index'],
     }),
     new htmlPlugin({
